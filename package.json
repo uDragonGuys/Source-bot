@@ -1,0 +1,17 @@
+{
+  "name": "bot-javascript",
+  "version": "1.0.0",
+  "description": "Meu bot simples :3",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js",
+    "build": "node .",
+    "start": "node index.js || node ."
+  },
+  "author": "Dragon Guys Pc",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.9.0"
+  }
+}
